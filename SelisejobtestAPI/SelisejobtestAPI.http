@@ -1,0 +1,6 @@
+@SelisejobtestAPI_HostAddress = http://localhost:5241
+
+GET {{SelisejobtestAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

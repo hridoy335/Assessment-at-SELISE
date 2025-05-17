@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SoftInterface/1.0.0": {
+        "dependencies": {
+          "SoftModels": "1.0.0"
+        },
+        "runtime": {
+          "SoftInterface.dll": {}
+        }
+      },
+      "SoftModels/1.0.0": {
+        "runtime": {
+          "SoftModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

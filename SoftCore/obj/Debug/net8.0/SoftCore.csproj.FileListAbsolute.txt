@@ -1,0 +1,17 @@
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\bin\Debug\net8.0\SoftCore.deps.json
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\bin\Debug\net8.0\SoftCore.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\bin\Debug\net8.0\SoftCore.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\bin\Debug\net8.0\SoftInterface.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\bin\Debug\net8.0\SoftModels.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\bin\Debug\net8.0\SoftInterface.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\bin\Debug\net8.0\SoftModels.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.csproj.AssemblyReference.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.AssemblyInfoInputs.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.AssemblyInfo.cs
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.csproj.CoreCompileInputs.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.csproj.Up2Date
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\refint\SoftCore.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftCore.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\ref\SoftCore.dll

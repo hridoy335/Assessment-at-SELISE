@@ -1,0 +1,15 @@
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\bin\Debug\net8.0\SoftInterface.deps.json
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\bin\Debug\net8.0\SoftInterface.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\bin\Debug\net8.0\SoftInterface.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\bin\Debug\net8.0\SoftModels.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\bin\Debug\net8.0\SoftModels.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.csproj.AssemblyReference.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.AssemblyInfoInputs.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.AssemblyInfo.cs
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.csproj.CoreCompileInputs.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInte.B21FAF6C.Up2Date
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\refint\SoftInterface.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\ref\SoftInterface.dll

@@ -1,0 +1,11 @@
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\bin\Debug\net8.0\SoftModels.deps.json
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\bin\Debug\net8.0\SoftModels.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\bin\Debug\net8.0\SoftModels.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.AssemblyInfoInputs.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.AssemblyInfo.cs
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.csproj.CoreCompileInputs.cache
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\refint\SoftModels.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\ref\SoftModels.dll
