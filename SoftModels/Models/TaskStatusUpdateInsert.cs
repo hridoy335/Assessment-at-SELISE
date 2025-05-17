@@ -9,7 +9,7 @@ namespace SoftModels.Models
     public class TaskStatusUpdateInsert
     {
         public int Id { get; set; }
-        public int Status { get; set; }
+        public string Status { get; set; }
         public string DueDate { get; set; }
     }
 }

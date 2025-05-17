@@ -13,3 +13,4 @@ C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInter
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\refint\SoftInterface.dll
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.pdb
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\ref\SoftInterface.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftInterface\obj\Debug\net8.0\SoftInterface.sourcelink.json

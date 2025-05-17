@@ -15,3 +15,4 @@ C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftEng.Core.d
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\refint\SoftEng.Core.dll
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftEng.Core.pdb
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\ref\SoftEng.Core.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftCore\obj\Debug\net8.0\SoftEng.Core.sourcelink.json

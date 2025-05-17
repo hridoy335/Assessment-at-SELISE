@@ -9,3 +9,4 @@ C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.d
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\refint\SoftModels.dll
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.pdb
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\ref\SoftModels.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SoftModels\obj\Debug\net8.0\SoftModels.sourcelink.json

@@ -15,5 +15,7 @@ namespace SoftInterface.DLL
         Task<DataBaseResponse> SaveTaskInfo(TaskInfo model);
         Task<DataBaseResponse> UpdateTaskInfo(TaskInfo model);
         Task<DataBaseResponse> DeleteTaskInfo(int id);
+
+        Task<DataBaseResponse> UpdateTaskStatus(TaskStatusUpdateInsert model);
     }
 }
