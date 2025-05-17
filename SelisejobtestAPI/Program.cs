@@ -84,6 +84,7 @@ builder.Services.AddScoped<ITeamInfo, TeamInfoBLL>();
 builder.Services.AddScoped<IUserInfo, UserInfoBLL>();
 builder.Services.AddScoped<IUserRole, UserRoleBLL>();
 builder.Services.AddScoped<IUserLogin, UserLoginBLL>();
+builder.Services.AddScoped<ITaskInfo, TaskInfoBLL>();
 
 
 var app = builder.Build();

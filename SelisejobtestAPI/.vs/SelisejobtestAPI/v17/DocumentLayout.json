@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\selisejobtestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\selisejobtestapi\\selisejobtestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|solutionrelative:selisejobtestapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\selisejobtestapi\\controllers\\taskinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|solutionrelative:controllers\\taskinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TaskInfoController.cs",
               "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Controllers\\TaskInfoController.cs",
               "RelativeDocumentMoniker": "Controllers\\TaskInfoController.cs",
               "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Controllers\\TaskInfoController.cs",
               "RelativeToolTip": "Controllers\\TaskInfoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T10:23:25.592Z",
               "IsPinned": true,
@@ -33,6 +41,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:45:04.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SelisejobtestAPI.http",
+              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\SelisejobtestAPI.http",
+              "RelativeDocumentMoniker": "SelisejobtestAPI.http",
+              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\SelisejobtestAPI.http",
+              "RelativeToolTip": "SelisejobtestAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-17T10:45:03.848Z",
+              "EditorCaption": ""
             }
           ]
         }

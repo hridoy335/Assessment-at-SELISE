@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SelisejobtestAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7736f5658e81e9e58e74b04793305f468cd3923")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41f0afdf608b871d6392bb291e120155e553297d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SelisejobtestAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SelisejobtestAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
