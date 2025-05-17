@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FM8duj3ADAA=",
+  "dgSpecHash": "qz1ajWAy0kg=",
   "success": true,
   "projectFilePath": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\SelisejobtestAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HRIDOY\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\HRIDOY\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
     "C:\\Users\\HRIDOY\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
+    "C:\\Users\\HRIDOY\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.0\\microsoft.aspnetcore.authentication.jwtbearer.6.0.0.nupkg.sha512",
     "C:\\Users\\HRIDOY\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\HRIDOY\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "C:\\Users\\HRIDOY\\.nuget\\packages\\microsoft.data.sqlclient\\6.0.2\\microsoft.data.sqlclient.6.0.2.nupkg.sha512",

@@ -11,7 +11,7 @@ namespace SelisejobtestAPI.Controllers
     public class EmployeeInfoController : Controller
     {
         private readonly IEmployeeInfo _iemployeeInfo;
-        public EmployeeInfoController(IEmployeeInfo employeeInfo)
+        public EmployeeInfoController(IEmployeeInfo employeeInfo )
         {
             _iemployeeInfo = employeeInfo;
         }
@@ -23,26 +23,28 @@ namespace SelisejobtestAPI.Controllers
         [Route("GetEmployeeInfo")]
         public IActionResult GetEmployeeInfo(int pageNumber = 1, int limit = 10, string search = "")
         {
-            var data = _iemployeeInfo.GetEmployeeInfo(search);
-            // pagination
-            int totalItems = data.Count();
-            IEnumerable<EmployeeInfo> paginatedData;
-            if (limit == 0)
-                paginatedData = data.Skip(pageNumber - 1);
-            else
-                paginatedData = data.Skip((pageNumber - 1) * limit).Take(limit);
+            
+                var data = _iemployeeInfo.GetEmployeeInfo(search);
+                // pagination
+                int totalItems = data.Count();
+                IEnumerable<EmployeeInfo> paginatedData;
+                if (limit == 0)
+                    paginatedData = data.Skip(pageNumber - 1);
+                else
+                    paginatedData = data.Skip((pageNumber - 1) * limit).Take(limit);
 
-            var response = ReturnData.ReturnDataList(data);
-            var result = new ListMetaData<EmployeeInfo>
-            {
-                TotalData = data.Count(),
-                DataFound = paginatedData.Count(),
-                CurrentPage = pageNumber,
-                TotalPages = (int)Math.Ceiling((double)data.Count() / limit),
-                DataLimit = limit,
-                Data = paginatedData
-            };
-            return Ok(new { IsSuccess = response.IsSuccess, Message = response.Message, resultData = result });
+                var response = ReturnData.ReturnDataList(data);
+                var result = new ListMetaData<EmployeeInfo>
+                {
+                    TotalData = data.Count(),
+                    DataFound = paginatedData.Count(),
+                    CurrentPage = pageNumber,
+                    TotalPages = (int)Math.Ceiling((double)data.Count() / limit),
+                    DataLimit = limit,
+                    Data = paginatedData
+                };
+                return Ok(new { IsSuccess = response.IsSuccess, Message = response.Message, resultData = result });
+            
         }
 
         [HttpGet]

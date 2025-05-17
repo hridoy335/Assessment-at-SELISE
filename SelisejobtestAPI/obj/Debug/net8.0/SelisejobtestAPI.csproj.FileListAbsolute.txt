@@ -82,3 +82,5 @@ C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SelisejobtestAPI\bin\Debug\net8.0\SoftIn
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SelisejobtestAPI\bin\Debug\net8.0\SoftModels.pdb
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SelisejobtestAPI\bin\Debug\net8.0\SoftEng.Core.dll
 C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SelisejobtestAPI\bin\Debug\net8.0\SoftEng.Core.pdb
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SelisejobtestAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HRIDOY\Downloads\SELISEJOBTEST\SelisejobtestAPI\obj\Debug\net8.0\SelisejobtestAPI.sourcelink.json

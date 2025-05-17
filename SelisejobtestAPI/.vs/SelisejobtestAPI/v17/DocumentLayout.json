@@ -3,29 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CB03646-9E80-4B87-95CB-A4B95393627F}|..\\SoftCore\\SoftEng.Core.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\softcore\\bll\\teaminfobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\selisejobtestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CB03646-9E80-4B87-95CB-A4B95393627F}|..\\SoftCore\\SoftEng.Core.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\softcore\\bll\\taskinfobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{574248B2-616E-427E-A85A-AFCF87094BEE}|..\\SoftInterface\\SoftInterface.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\softinterface\\dll\\itaskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{574248B2-616E-427E-A85A-AFCF87094BEE}|..\\SoftInterface\\SoftInterface.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\softinterface\\dll\\iuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B6FD0C-0BBB-4FCB-964D-05BC191DA57F}|..\\SoftModels\\SoftModels.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\softmodels\\models\\taskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B6FD0C-0BBB-4FCB-964D-05BC191DA57F}|..\\SoftModels\\SoftModels.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\softmodels\\models\\taskstatusupdateinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14B6FD0C-0BBB-4FCB-964D-05BC191DA57F}|..\\SoftModels\\SoftModels.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\softmodels\\models\\taskinfoinsert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|c:\\users\\hridoy\\downloads\\selisejobtest\\selisejobtestapi\\controllers\\taskinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38ED33D6-DFF4-4517-8F87-989831CA2FCF}|SelisejobtestAPI.csproj|solutionrelative:controllers\\taskinfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,111 +19,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeamInfoBLL.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftCore\\BLL\\TeamInfoBLL.cs",
-              "RelativeDocumentMoniker": "..\\SoftCore\\BLL\\TeamInfoBLL.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftCore\\BLL\\TeamInfoBLL.cs",
-              "RelativeToolTip": "..\\SoftCore\\BLL\\TeamInfoBLL.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAAAJMAAAAyAAAA",
+              "Title": "TaskInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Controllers\\TaskInfoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskInfoController.cs",
+              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Controllers\\TaskInfoController.cs",
+              "RelativeToolTip": "Controllers\\TaskInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:13:22.965Z",
+              "WhenOpened": "2025-05-17T10:23:25.592Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SelisejobtestAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:18:46.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskInfoBLL.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftCore\\BLL\\TaskInfoBLL.cs",
-              "RelativeDocumentMoniker": "..\\SoftCore\\BLL\\TaskInfoBLL.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftCore\\BLL\\TaskInfoBLL.cs",
-              "RelativeToolTip": "..\\SoftCore\\BLL\\TaskInfoBLL.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAkwC8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:13:09.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRole.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftInterface\\DLL\\IUserRole.cs",
-              "RelativeDocumentMoniker": "..\\SoftInterface\\DLL\\IUserRole.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftInterface\\DLL\\IUserRole.cs",
-              "RelativeToolTip": "..\\SoftInterface\\DLL\\IUserRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:10:42.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ITaskInfo.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftInterface\\DLL\\ITaskInfo.cs",
-              "RelativeDocumentMoniker": "..\\SoftInterface\\DLL\\ITaskInfo.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftInterface\\DLL\\ITaskInfo.cs",
-              "RelativeToolTip": "..\\SoftInterface\\DLL\\ITaskInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:10:31.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskStatusUpdateInsert.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftModels\\Models\\TaskStatusUpdateInsert.cs",
-              "RelativeDocumentMoniker": "..\\SoftModels\\Models\\TaskStatusUpdateInsert.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftModels\\Models\\TaskStatusUpdateInsert.cs",
-              "RelativeToolTip": "..\\SoftModels\\Models\\TaskStatusUpdateInsert.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:09:03.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TaskInfo.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftModels\\Models\\TaskInfo.cs",
-              "RelativeDocumentMoniker": "..\\SoftModels\\Models\\TaskInfo.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftModels\\Models\\TaskInfo.cs",
-              "RelativeToolTip": "..\\SoftModels\\Models\\TaskInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:07:54.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TaskInfoInsert.cs",
-              "DocumentMoniker": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftModels\\Models\\TaskInfoInsert.cs",
-              "RelativeDocumentMoniker": "..\\SoftModels\\Models\\TaskInfoInsert.cs",
-              "ToolTip": "C:\\Users\\HRIDOY\\Downloads\\SELISEJOBTEST\\SoftModels\\Models\\TaskInfoInsert.cs",
-              "RelativeToolTip": "..\\SoftModels\\Models\\TaskInfoInsert.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:07:52.358Z",
-              "EditorCaption": ""
             }
           ]
         }
